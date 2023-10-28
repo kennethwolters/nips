@@ -95,6 +95,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 | `1040`  | OpenTimestamps             | [03](03.md) |
 | `1984`  | Reporting                  | [56](56.md) |
 | `1985`  | Label                      | [32](32.md) |
+| `4548`  | Community file metadata    | [72](72.md) |
 | `4549`  | Community Post             | [72](72.md) |
 | `4550`  | Community Post Approval    | [72](72.md) |
 | `9041`  | Zap Goal                   | [75](75.md) |
@@ -104,6 +105,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 | `10001` | Pin List                   | [51](51.md) |
 | `10002` | Relay List Metadata        | [65](65.md) |
 | `10500` | Community-scoped Metadata  | [72](72.md) |
+| `10501` | Community-scoped Contacts  | [72](72.md) |
 | `13194` | Wallet Info                | [47](47.md) |
 | `22242` | Client Authentication      | [42](42.md) |
 | `23194` | Wallet Request             | [47](47.md) |
